@@ -1,0 +1,15 @@
+
+
+#get-joke {
+	padding: 50px;
+	margin: 200px 700px;
+	text-align: center;
+	background-color: #e45;
+	border-radius: 30px;
+}
+
+#joke {
+	text-align: center;
+	font-size: 30px;
+}
+
